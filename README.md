@@ -1,2 +1,6 @@
 # Autohotkey
-scripts I wrote for Autohotkeys
+I wrote this code to create three window multitasking workspace.
+like in fancy zones.
+this was really useful for me. the left window is the largest,
+right two windows are of the same size. i use the left window to work on
+while using the other two as references.
