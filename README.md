@@ -1,11 +1,2 @@
-# Autohotkey
-I wrote this code to create three window multitasking workspace.
-like in fancy zones.
-this was really useful for me. the left window is the largest,
-right two windows are of the same size. i use the left window to work on
-while using the other two as references.
-
-tiles pixel size: 740-640-640
-
-guide to use it:
-download this .ahk file, also download and install autohotkey v2 and then save the .ahk to Startup folder
+# Kiran's Auto hotkey repository.
+This repository is for useful auto hot key v2 scripts i create that is useful to me in day to day life. it's mostly shortcuts for automating things. that increases productivity.
